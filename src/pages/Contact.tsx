@@ -53,7 +53,7 @@ const Contact = () => {
                     type="tel"
                     id="phone"
                     className="w-full px-4 py-2 border border-gray-300 rounded-md focus:ring-2 focus:ring-green-800 focus:border-transparent"
-                    placeholder="(832) 641-5671"
+                    placeholder="your phone number"
                   />
                 </div>
                 <div>
