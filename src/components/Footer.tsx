@@ -11,10 +11,10 @@ const Footer = () => {
           <div className="space-y-4">
             <div className="flex items-center space-x-2">
               <Leaf className="h-8 w-8 text-yellow-400" />
-              <span className="text-xl font-bold">The Groundskeeper</span>
+              <span className="text-xl font-bold">Groundskeeper HTX</span>
             </div>
             <p className="text-sm">
-              Your trusted partner in home maintenance and care. Serving Houston and surrounding areas.
+              Your trusted partner in home preventive maintenance and care. Serving Houston and surrounding areas.
             </p>
           </div>
 
@@ -48,11 +48,11 @@ const Footer = () => {
             <ul className="space-y-2">
               <li className="flex items-center space-x-2">
                 <Phone className="h-5 w-5 text-yellow-400" />
-                <span>(555) 123-4567</span>
+                <span>(832) 641-5671</span>
               </li>
               <li className="flex items-center space-x-2">
                 <Mail className="h-5 w-5 text-yellow-400" />
-                <span>info@thegroundskeeper.com</span>
+                <span>info@groundskeeperhtx.com</span>
               </li>
               <li className="flex items-center space-x-2">
                 <MapPin className="h-5 w-5 text-yellow-400" />
@@ -63,7 +63,7 @@ const Footer = () => {
         </div>
 
         <div className="border-t border-green-700 mt-8 pt-8 text-center text-sm">
-          <p>&copy; {new Date().getFullYear()} The Groundskeeper. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} Built by cojovi.com | Groundskeeperhtx. All rights reserved.</p>
         </div>
       </div>
     </footer>

@@ -84,7 +84,7 @@ const Contact = () => {
                   <MapPin className="w-6 h-6 text-green-800 flex-shrink-0" />
                   <div>
                     <h3 className="font-semibold mb-1">Location</h3>
-                    <p className="text-gray-600">123 Main Street, Houston, TX 77001</p>
+                    <p className="text-gray-600">Houston, TX 77001</p>
                   </div>
                 </div>
                 <div className="flex items-start space-x-4">
@@ -108,7 +108,7 @@ const Contact = () => {
                     <p className="text-gray-600">
                       Monday - Friday: 8:00 AM - 6:00 PM<br />
                       Saturday: 9:00 AM - 2:00 PM<br />
-                      Sunday: Closed
+                      Sunday: Appointment Only
                     </p>
                   </div>
                 </div>

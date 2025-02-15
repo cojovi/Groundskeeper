@@ -12,7 +12,7 @@ const Navbar = () => {
           <div className="flex items-center">
             <Link to="/" className="flex items-center space-x-2">
               <Leaf className="h-8 w-8 text-yellow-400" />
-              <span className="text-xl font-bold">The Groundskeeper</span>
+              <span className="text-xl font-bold">GroundskeeperHTX</span>
             </Link>
           </div>
 
