@@ -53,7 +53,7 @@ const Contact = () => {
                     type="tel"
                     id="phone"
                     className="w-full px-4 py-2 border border-gray-300 rounded-md focus:ring-2 focus:ring-green-800 focus:border-transparent"
-                    placeholder="(555) 123-4567"
+                    placeholder="(832) 641-5671"
                   />
                 </div>
                 <div>
@@ -91,14 +91,14 @@ const Contact = () => {
                   <Phone className="w-6 h-6 text-green-800 flex-shrink-0" />
                   <div>
                     <h3 className="font-semibold mb-1">Phone</h3>
-                    <p className="text-gray-600">(555) 123-4567</p>
+                    <p className="text-gray-600">(832) 641-5671</p>
                   </div>
                 </div>
                 <div className="flex items-start space-x-4">
                   <Mail className="w-6 h-6 text-green-800 flex-shrink-0" />
                   <div>
                     <h3 className="font-semibold mb-1">Email</h3>
-                    <p className="text-gray-600">info@thegroundskeeper.com</p>
+                    <p className="text-gray-600">info@groundskeeperhtx.com</p>
                   </div>
                 </div>
                 <div className="flex items-start space-x-4">
