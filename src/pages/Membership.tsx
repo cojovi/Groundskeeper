@@ -23,27 +23,39 @@ const Membership = () => {
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
             {/* Basic Plan */}
             <div className="bg-white p-8 rounded-lg shadow-md border border-gray-200">
-              <h3 className="text-2xl font-bold text-gray-900 mb-4">Basic Care</h3>
+              <h3 className="text-2xl font-bold text-gray-900 mb-4">Basic</h3>
               <div className="mb-6">
-                <span className="text-4xl font-bold">$129</span>
-                <span className="text-gray-600">/month</span>
+                <span className="text-4xl font-bold">$190</span>
+                <span className="text-gray-600"> (below $400)</span>
               </div>
               <ul className="space-y-4 mb-8">
                 <li className="flex items-start">
                   <Check className="w-5 h-5 text-green-800 mr-2 flex-shrink-0" />
-                  <span>Monthly maintenance visits</span>
+                  <span>Clean Gutters</span>
                 </li>
                 <li className="flex items-start">
                   <Check className="w-5 h-5 text-green-800 mr-2 flex-shrink-0" />
-                  <span>Basic HVAC maintenance</span>
+                  <span>Power Wash Entryway & Walkway</span>
                 </li>
                 <li className="flex items-start">
                   <Check className="w-5 h-5 text-green-800 mr-2 flex-shrink-0" />
-                  <span>Exterior inspections</span>
+                  <span>Check Outdoor Plumbing</span>
                 </li>
                 <li className="flex items-start">
                   <Check className="w-5 h-5 text-green-800 mr-2 flex-shrink-0" />
-                  <span>10% off additional services</span>
+                  <span>Reseed Lawn</span>
+                </li>
+                <li className="flex items-start">
+                  <Check className="w-5 h-5 text-green-800 mr-2 flex-shrink-0" />
+                  <span>Inspect for Pests</span>
+                </li>
+                <li className="flex items-start">
+                  <Check className="w-5 h-5 text-green-800 mr-2 flex-shrink-0" />
+                  <span>Winter Damage Check</span>
+                </li>
+                <li className="flex items-start">
+                  <Check className="w-5 h-5 text-green-800 mr-2 flex-shrink-0" />
+                  <span>Foundation Check</span>
                 </li>
               </ul>
               <Link
@@ -59,27 +71,27 @@ const Membership = () => {
               <div className="bg-yellow-400 text-green-800 px-4 py-1 rounded-full text-sm font-semibold inline-block mb-4">
                 Most Popular
               </div>
-              <h3 className="text-2xl font-bold mb-4">Premium Care</h3>
+              <h3 className="text-2xl font-bold mb-4">Premium</h3>
               <div className="mb-6">
-                <span className="text-4xl font-bold">$249</span>
-                <span className="text-gray-200">/month</span>
+                <span className="text-4xl font-bold">$400</span>
+                <span className="text-gray-200"> (targeted avg.)</span>
               </div>
               <ul className="space-y-4 mb-8">
                 <li className="flex items-start">
                   <Check className="w-5 h-5 text-yellow-400 mr-2 flex-shrink-0" />
-                  <span>Everything in Basic Care</span>
+                  <span>Clean Up Yard Debris</span>
                 </li>
                 <li className="flex items-start">
                   <Check className="w-5 h-5 text-yellow-400 mr-2 flex-shrink-0" />
-                  <span>Priority scheduling</span>
+                  <span>Flush Outdoor Drainage</span>
                 </li>
                 <li className="flex items-start">
                   <Check className="w-5 h-5 text-yellow-400 mr-2 flex-shrink-0" />
-                  <span>Quarterly deep cleaning</span>
+                  <span>Improve Landscape Along Foundation Perimeter</span>
                 </li>
                 <li className="flex items-start">
                   <Check className="w-5 h-5 text-yellow-400 mr-2 flex-shrink-0" />
-                  <span>20% off additional services</span>
+                  <span>Pressure Wash Driveway & Sidewalk</span>
                 </li>
               </ul>
               <Link
@@ -92,27 +104,23 @@ const Membership = () => {
 
             {/* Ultimate Plan */}
             <div className="bg-white p-8 rounded-lg shadow-md border border-gray-200">
-              <h3 className="text-2xl font-bold text-gray-900 mb-4">Ultimate Care</h3>
+              <h3 className="text-2xl font-bold text-gray-900 mb-4">Ultimate</h3>
               <div className="mb-6">
-                <span className="text-4xl font-bold">$399</span>
-                <span className="text-gray-600">/month</span>
+                <span className="text-4xl font-bold">$675+</span>
+                <span className="text-gray-600"> (above $400)</span>
               </div>
               <ul className="space-y-4 mb-8">
                 <li className="flex items-start">
                   <Check className="w-5 h-5 text-green-800 mr-2 flex-shrink-0" />
-                  <span>Everything in Premium Care</span>
+                  <span>Prune Trees and Shrubs</span>
                 </li>
                 <li className="flex items-start">
                   <Check className="w-5 h-5 text-green-800 mr-2 flex-shrink-0" />
-                  <span>24/7 emergency support</span>
+                  <span>Pressure Wash Full Exterior</span>
                 </li>
                 <li className="flex items-start">
                   <Check className="w-5 h-5 text-green-800 mr-2 flex-shrink-0" />
-                  <span>Unlimited service calls</span>
-                </li>
-                <li className="flex items-start">
-                  <Check className="w-5 h-5 text-green-800 mr-2 flex-shrink-0" />
-                  <span>30% off additional services</span>
+                  <span>(One-Story or Two-Story)</span>
                 </li>
               </ul>
               <Link
