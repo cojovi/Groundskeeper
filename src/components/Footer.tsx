@@ -63,7 +63,7 @@ const Footer = () => {
         </div>
 
         <div className="border-t border-green-700 mt-8 pt-8 text-center text-sm">
-          <p>&copy; {new Date().getFullYear()} Built by cojovi.com | Groundskeeperhtx. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} Built by cojovi.com | Groundskeeper.Solutions. All rights reserved.</p>
         </div>
       </div>
     </footer>
