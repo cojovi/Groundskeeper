@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Cody</h1>
 <p align="center"><img src="animation.gif" width="500" alt="animation.gif"></p>
-<hi> First beta of the Groundskeeper website and soon mobile app.</hi>
+<hi> First beta of the Groundskeeper website im making for a friend... and soon to come mobile app.</hi>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 
 # 💫 About Me:
