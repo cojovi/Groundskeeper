@@ -84,21 +84,21 @@ const Contact = () => {
                   <MapPin className="w-6 h-6 text-green-800 flex-shrink-0" />
                   <div>
                     <h3 className="font-semibold mb-1">Location</h3>
-                    <p className="text-gray-600">Houston, TX 77001</p>
+                    <p className="text-gray-600">10878 Westheimer Rd., #286 Houston, TX 77042</p>
                   </div>
                 </div>
                 <div className="flex items-start space-x-4">
                   <Phone className="w-6 h-6 text-green-800 flex-shrink-0" />
                   <div>
                     <h3 className="font-semibold mb-1">Phone</h3>
-                    <p className="text-gray-600">(832) 641-5671</p>
+                    <p className="text-gray-600">(832) 413-1472</p>
                   </div>
                 </div>
                 <div className="flex items-start space-x-4">
                   <Mail className="w-6 h-6 text-green-800 flex-shrink-0" />
                   <div>
                     <h3 className="font-semibold mb-1">Email</h3>
-                    <p className="text-gray-600">info@groundskeeperhtx.com</p>
+                    <p className="text-gray-600">roger@Groundskeeper.Solutions</p>
                   </div>
                 </div>
                 <div className="flex items-start space-x-4">

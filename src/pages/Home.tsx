@@ -21,7 +21,7 @@ const Home = () => {
                 Protect Your Home, Save Money, and Enjoy Peace of Mind
               </h1>
               <p className="text-xl mb-8">
-                Join The Groundskeeper membership today for professional, proactive home maintenance.
+                Join The Groundskeeper.Solutions membership today for professional, proactive home maintenance.
               </p>
               <div className="space-x-4">
                 <Link 
